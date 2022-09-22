@@ -1,2 +1,2 @@
-# Pharmaceutical-Project---SQL-StoredProcedures
+# Pharmaceutical-Project-SQL-StoredProcedures
 Pharmaceutical Prescription Project
